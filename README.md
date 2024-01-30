@@ -26,10 +26,11 @@
    &nbsp;&#10022; Feel free to reach me at: &#10022;
 
    &nbsp; 
-    <p align="left">
-    <a href="https://linkedin.com/in/gasca-samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gasca-samuel" height="30" width="40" />     </a>
-    <a href="https://instagram.com/samuel.sw.1989_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.sw.1989_" height="30" width="40" />     </a>
-    </p>
+   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+
+   
+
   </p>
  </div>
 </div>
