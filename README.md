@@ -4,12 +4,6 @@
 
 - ⚡ Fun fact **I can communicate in french,spanish or english!!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gasca-samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gasca-samuel" height="30" width="40" /></a>
-<a href="https://instagram.com/samuel.sw.1989_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.sw.1989_" height="30" width="40" /></a>
-</p>
-
 <br><br><br><br><br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
@@ -20,3 +14,22 @@
 </p>
 <h2></h2>
 <br><br><br><br><br>
+<div>
+ <div>
+  <img src="./assets/images/mary.png" align="left">
+  <p align="right">
+
+   &nbsp;
+   
+   &nbsp;
+    
+   &nbsp;&#10022; Feel free to reach me at: &#10022;
+
+   &nbsp; 
+    <p align="left">
+    <a href="https://linkedin.com/in/gasca-samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gasca-samuel" height="30" width="40" />     </a>
+    <a href="https://instagram.com/samuel.sw.1989_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.sw.1989_" height="30" width="40" />     </a>
+    </p>
+  </p>
+ </div>
+</div>
