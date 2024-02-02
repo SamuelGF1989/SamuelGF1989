@@ -1,10 +1,26 @@
-<h3 align="center">A passionate frontend developer</h3>
+<div>
+ <div>
+  <img src="./assets/kiri.png" align="left">
+  <p align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelgf1989&label=Profile%20views&color=0e75b6&style=flat" alt="samuelgf1989" /> </p>
+   &nbsp;
+    
+   &nbsp;&#10047; Hey there, my name is Samuel, nice to meet you!
 
-- ⚡ Fun fact **I can communicate in french,spanish or english!!**
+   &nbsp;&#10047; Studied computer engineering
 
-<br><br><br><br><br><br>
+   &nbsp;&#10047; Front-end developer
+
+   &nbsp;&#10047; Have understanding in Spanish 🇲🇽 (native), English 🇺🇸 (fluent), 日本語 🇯🇵 (a little bit), and French 🇫🇷 (intermediate level) 
+
+   &nbsp;&#10047; My current goals is To become a Frontend Developer, and keep learning even more languages
+   
+   &nbsp;&#10047; Let's talk about Web development,videogames and anime stuff
+   
+  </p>
+ </div>
+</div>
+<br><br><br><br><br><br><br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
@@ -16,7 +32,6 @@
 <br><br><br><br><br>
 <div>
  <div>
-  <img src="./assets/images/mary.png" align="left">
   <p align="right">
 
    &nbsp;
@@ -24,12 +39,6 @@
    &nbsp;
     
    &nbsp;&#10022; Feel free to reach me at: &#10022;
-
-   &nbsp; 
-   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-   
 
   </p>
  </div>
