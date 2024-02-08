@@ -36,6 +36,10 @@ Hobbies: Gaming,languages,coding while I'm listening to music
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,git,github,java,c,cpp,css,html&perline=8"alt="My Skills"/> 
     </a>
 </p>
+<h2 align="center">Spotify Playing</h2>
+<div>
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6lbbteri5qmsomov1fhtdfa5h&cover_image=true&theme=default&show_offline=false&background_color=910044&interchange=false&bar_color=00756a)](https://github.com/kittinan/spotify-github-profile)
+</div>
 <br>
 <h2 align ="center"> 📝 Feel free to reach me 📝</h2>
 <br> 
