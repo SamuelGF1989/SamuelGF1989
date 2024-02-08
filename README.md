@@ -22,7 +22,7 @@ Username: SamuelGF1989
 Education: Computer Engineer. Also translator (kinda)
 Interests: Videogames 🎮, music 🎹🎶🎵
 Pronouns: He/Him
-Location: Interglactic Alliance I'm stationed up in the Gamma Quadrant of Sector Four
+Location: Intergalactic Alliance I'm stationed up in the Gamma Quadrant of Sector Four
 Languages: C,C++,JavaScript
 Learning: Typescript,React,Js,CSS and HTML
 Hobbies: Gaming,languages,coding while I'm listening to music
