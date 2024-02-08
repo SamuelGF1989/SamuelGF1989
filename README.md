@@ -36,16 +36,20 @@ Hobbies: Gaming,languages,coding while I'm listening to music
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,git,github,java,c,cpp,css,html&perline=8"alt="My Skills"/> 
     </a>
 </p>
-<h2 align="center">Spotify Playing</h2>
-<div>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6lbbteri5qmsomov1fhtdfa5h&cover_image=true&theme=default&show_offline=false&background_color=910044&interchange=false&bar_color=00756a)](https://github.com/kittinan/spotify-github-profile)
+<h2 align="center">Spotify Playing  :milky_way: </h2>
+<div style="display: flex; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <p>&nbsp;&#10047; Take a look at what I'm listening to, you might discover an amazing song or your new favorite artist/group :tokyo_tower: :tokyo_tower:</p>
+        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=6lbbteri5qmsomov1fhtdfa5h&cover_image=true&theme=default&show_offline=false&background_color=910044&interchange=false&bar_color=00756a" alt="Cris' Spotify"/>
+    </div>
+    <img src="assets/kanon.gif" style="margin-left: 10px;" alt="Kanon image"/>
 </div>
 <br>
 <h2 align ="center"> 📝 Feel free to reach me 📝</h2>
 <br> 
 <div align="center">
 <a href="https://github.com/SamuelGF1989" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img align="left "src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/gasca-samuel/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
