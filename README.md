@@ -5,15 +5,15 @@
   
 &nbsp;&#10047; Hey there, my name is Samuel, nice to meet you!
 
-&nbsp;&#10047; Studied computer engineering
+&nbsp;&#10047; I have a background in computer engineering
 
 &nbsp;&#10047; Front-end developer
 
-&nbsp;&#10047; I am fluent in Spanish (my native language) and English, and I have a basic understanding of Japanese and intermediate proficiency in French.
+&nbsp;&#10047; Have understanding in Spanish 🇲🇽 (native), English 🇺🇸 (fluent), 日本語 🇯🇵 (a little bit), and French 🇫🇷 (intermediate level)
 
 &nbsp;&#10047; My current goal is to further develop my skills as a front-end developer and continue learning new languages.
 
-&nbsp;&#10047; Let's talk about Web development, videogames and anime stuff
+&nbsp;&#10047; I'm passionate about web development, video games, and anime, so let's dive into those topics!
 
 ```javascript
 Here's a little overview
