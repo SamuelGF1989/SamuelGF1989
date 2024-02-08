@@ -41,8 +41,8 @@ Hobbies: Gaming,languages,coding while I'm listening to music
     <div style="display: flex; flex-direction: column; align-items: center;">
         <p>&nbsp;&#10047; Take a look at what I'm listening to, you might discover an amazing song or your new favorite artist/group :tokyo_tower: :tokyo_tower:</p>
         <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=6lbbteri5qmsomov1fhtdfa5h&cover_image=true&theme=default&show_offline=false&background_color=910044&interchange=false&bar_color=00756a" alt="Cris' Spotify"/>
+         <img align = "center" src="assets/kanon.gif" style="margin-left: 10px;" alt="Kanon image"/>
     </div>
-    <img src="assets/kanon.gif" style="margin-left: 10px;" alt="Kanon image"/>
 </div>
 <br>
 <h2 align ="center"> 📝 Feel free to reach me 📝</h2>
