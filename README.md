@@ -33,7 +33,7 @@ Hobbies: Gaming,languages,coding while I'm listening to music
  <br>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,git,github,java,c,cpp,css,html&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,git,github,java,c,cpp,css,html,javascript,typescript,react&perline=8"alt="My Skills"/> 
     </a>
 </p>
 <h2 align="center">Spotify Playing  :milky_way: </h2>
