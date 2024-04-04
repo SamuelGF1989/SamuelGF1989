@@ -26,6 +26,7 @@ Location: Intergalactic Alliance I'm stationed up in the Gamma Quadrant of Secto
 Languages: C,C++,JavaScript
 Learning: Typescript,React,Js,CSS and HTML
 Hobbies: Gaming,languages,coding while I'm listening to music
+Currently learning Angular
 
 ```
  </div>
